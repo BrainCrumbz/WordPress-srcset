@@ -42,4 +42,4 @@ Example of how to register high resoloution versions of an image.
 Changelog 
 ---
 
-1.0 - Initial release. High res images for WordPress using srcset attribute and srcset-polyfill
+ * 1.0 - Initial release. High res images for WordPress using `srcset` attribute and `srcset-polyfill`
