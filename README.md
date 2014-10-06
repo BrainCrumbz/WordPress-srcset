@@ -36,8 +36,10 @@ There are 2 ways to use the plugin:
 
 Example of how to register high resoloution versions of an image.
 
-    add_image_size( 'small', '100', '100' );
-    add_image_size( 'small-2x', '200', '200' );
+```PHP
+add_image_size( 'small', '100', '100' );
+add_image_size( 'small-2x', '200', '200' );
+```
 
 Changelog 
 ---
